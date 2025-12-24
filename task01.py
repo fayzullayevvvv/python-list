@@ -1,0 +1,1 @@
+fruits = ['olma', 'anor', 'banan']

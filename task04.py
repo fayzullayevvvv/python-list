@@ -1,0 +1,1 @@
+lst = [input('name: ') for i in range(3) ]
